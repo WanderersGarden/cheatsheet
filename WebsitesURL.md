@@ -213,18 +213,18 @@
 
 - tips
 
-  -first method 
+  - first method 
 
     ```python -c 'import pty;pty.spawn("/bin/bash")'```
     ```export TERM=xterm```
     ```crtl+Z```
     ```stty raw -echo; fg```
 
-  -second method (works well on windows)
+  - second method (works well on windows)
 
     ```rlwrap```
 
-  -third technique (only work for linux:target)
+  - third technique (only work for linux:target)
 
     ```socat```
     
