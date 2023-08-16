@@ -210,6 +210,13 @@
 - Github SecList repo
 
   - <https://github.com/danielmiessler/SecLists>
+
+- tips
+
+  ```python -c 'import pty;pty.spawn("/bin/bash")'```
+  ```export TERM=xterm```
+  ```crtl+Z```
+  ```stty raw -echo; fg```
     
 ***
 
