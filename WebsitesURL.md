@@ -196,3 +196,20 @@
   - <https://infosecwriteups.com/decrypting-https-traffic-as-a-hacker-323cb7127441>
 
 ***
+
+`reverse shell / bind shell`
+
+- payloadsAllTheThings
+
+  - <https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md>
+
+-ReverseShell Cheatsheat (pentestMonkey)
+
+  - <https://web.archive.org/web/20200901140719/http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet>
+
+-Github SecList repo
+
+  - <https://github.com/danielmiessler/SecLists>
+    
+***
+
